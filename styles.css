@@ -1,0 +1,44 @@
+/* add your CSS here */
+body {
+	width: 400px;
+}
+
+#short-desc {
+	font-style: italic;
+	padding: 10px;
+}
+
+img {
+	padding-bottom: 15px;
+}
+
+ul {
+	padding: 10px;
+}
+
+li {
+	font-style: italic;
+	list-style-type: none;
+}
+
+li span {
+	font-style: initial;
+	font-weight: bold;
+}
+
+#card-border {
+	border-style: solid;
+	border-color: gray;
+	border-width: 2px;
+	padding: 10px;
+}
+
+#information {
+	border-style: solid;
+	border-color: gray;
+	border-width: 2px;
+}
+
+#bottom-paragraph {
+	padding: 10px;
+}
